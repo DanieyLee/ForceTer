@@ -1,0 +1,8 @@
+c:\users\add\documents\visual studio 2015\Projects\ForceTer 3.0\ForceTer 3.0\bin\Debug\ForceTer 3.0.exe
+c:\users\add\documents\visual studio 2015\Projects\ForceTer 3.0\ForceTer 3.0\bin\Debug\ForceTer 3.0.pdb
+c:\users\add\documents\visual studio 2015\Projects\ForceTer 3.0\ForceTer 3.0\obj\Debug\ForceTer 3.0.csprojResolveAssemblyReference.cache
+c:\users\add\documents\visual studio 2015\Projects\ForceTer 3.0\ForceTer 3.0\obj\Debug\ForceTer_3._0.Properties.Resources.resources
+c:\users\add\documents\visual studio 2015\Projects\ForceTer 3.0\ForceTer 3.0\obj\Debug\ForceTer 3.0.csproj.GenerateResource.Cache
+c:\users\add\documents\visual studio 2015\Projects\ForceTer 3.0\ForceTer 3.0\obj\Debug\ForceTer 3.0.exe
+c:\users\add\documents\visual studio 2015\Projects\ForceTer 3.0\ForceTer 3.0\obj\Debug\ForceTer 3.0.pdb
+c:\users\add\documents\visual studio 2015\Projects\ForceTer 3.0\ForceTer 3.0\obj\Debug\ForceTer_3._0.ForceTer.resources

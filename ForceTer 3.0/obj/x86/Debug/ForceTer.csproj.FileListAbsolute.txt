@@ -1,0 +1,11 @@
+C:\Users\add\Documents\Visual Studio 2015\Projects\ForceTer 3.0\ForceTer 3.0\obj\x86\Debug\Interop.IWshRuntimeLibrary.dll
+C:\Users\add\Documents\Visual Studio 2015\Projects\ForceTer 3.0\ForceTer 3.0\obj\x86\Debug\ForceTer.csproj.ResolveComReference.cache
+C:\Users\add\Documents\Visual Studio 2015\Projects\ForceTer 3.0\ForceTer 3.0\bin\x86\Debug\ForceTer.exe
+C:\Users\add\Documents\Visual Studio 2015\Projects\ForceTer 3.0\ForceTer 3.0\bin\x86\Debug\ForceTer.pdb
+C:\Users\add\Documents\Visual Studio 2015\Projects\ForceTer 3.0\ForceTer 3.0\bin\x86\Debug\System.Data.SQLite.dll
+C:\Users\add\Documents\Visual Studio 2015\Projects\ForceTer 3.0\ForceTer 3.0\obj\x86\Debug\ForceTer.ForceTer.resources
+C:\Users\add\Documents\Visual Studio 2015\Projects\ForceTer 3.0\ForceTer 3.0\obj\x86\Debug\ForceTer.Popup.resources
+C:\Users\add\Documents\Visual Studio 2015\Projects\ForceTer 3.0\ForceTer 3.0\obj\x86\Debug\ForceTer.Properties.Resources.resources
+C:\Users\add\Documents\Visual Studio 2015\Projects\ForceTer 3.0\ForceTer 3.0\obj\x86\Debug\ForceTer.csproj.GenerateResource.Cache
+C:\Users\add\Documents\Visual Studio 2015\Projects\ForceTer 3.0\ForceTer 3.0\obj\x86\Debug\ForceTer.exe
+C:\Users\add\Documents\Visual Studio 2015\Projects\ForceTer 3.0\ForceTer 3.0\obj\x86\Debug\ForceTer.pdb
